@@ -1,3 +1,5 @@
+package org.yozh
+
 import collection.immutable.HashSet
 import java.util.Date
 

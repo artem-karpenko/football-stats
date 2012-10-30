@@ -1,3 +1,5 @@
+package org.yozh
+
 /**
  *
  * @author Artem
