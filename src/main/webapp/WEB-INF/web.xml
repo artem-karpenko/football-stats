@@ -19,7 +19,7 @@
     </filter-mapping>
 
     <!-- fix for Jetty's file locking issue -->
-    <!--<servlet>
+    <servlet>
         <servlet-name>default</servlet-name>
         <servlet-class>org.mortbay.jetty.servlet.DefaultServlet</servlet-class>
         <init-param>
@@ -27,5 +27,5 @@
             <param-value>false</param-value>
         </init-param>
         <load-on-startup>0</load-on-startup>
-    </servlet>-->
+    </servlet>
 </web-app>
